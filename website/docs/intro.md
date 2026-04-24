@@ -9,7 +9,9 @@ import Link from '@docusaurus/Link';
 
 ## Introduction
 Hydra is an open-source Python framework that simplifies the development of research and other complex applications.
-The key feature is the ability to dynamically create a hierarchical configuration by composition and override it through config files and the command line. 
+The key feature is the ability to dynamically create a hierarchical configuration by ghvhh
+bnb
+and override it through config files and the command line. 
 The name Hydra comes from its ability to run multiple similar jobs - much like a Hydra with multiple heads.
 
 ### Key features:
@@ -26,7 +28,8 @@ Hydra supports Linux, Mac and Windows.
 Use the version switcher in the top bar to switch between documentation versions.
  
 |        |          Version          |  Release notes                                                                      | Python Versions    |
-| -------|---------------------------|-------------------------------------------------------------------------------------| -------------------|
+| -------|---------------------------|-------------------------------------------------------------------<img width="768" height="1365" alt="1000053167" src="https://github.com/user-attachments/assets/68adcd55-920e-4380-bf12-b5ff0d0babf0" />
+------------------| -------------------|
 | &#9658;| 1.3 (Stable)              | [Release notes](https://github.com/facebookresearch/hydra/releases/tag/v1.3.0)      | **3.6 - 3.11**     |
 |        | 1.2                       | [Release notes](https://github.com/facebookresearch/hydra/releases/tag/v1.2.0)      | **3.6 - 3.10**     |
 |        | 1.1                       | [Release notes](https://github.com/facebookresearch/hydra/releases/tag/v1.1.1)      | **3.6 - 3.9**      |
